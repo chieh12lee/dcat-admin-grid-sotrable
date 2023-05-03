@@ -27,7 +27,7 @@ class DcatAdminGridSotrableServiceProvider extends ServiceProvider
 
         $sortType=self::setting('sortalbe_type')?self::setting('sortalbe_type'):0;
         $cancelBtn=self::setting('sortalbe_cancel')?self::setting('sortalbe_cancel'):0;
-        Admin::requireAssets('@pstldz.dcat-admin-grid-sotrable');
+        Admin::requireAssets('@chieh12lee.dcat-admin-grid-sotrable');
         Grid::macro('sortable', function ($sortName = 'order') use($sortType,$cancelBtn){
             /* @var $this Grid */
 
