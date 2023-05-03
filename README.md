@@ -17,7 +17,7 @@
 ## 安装
 
 ```shell
-composer require pstldz/dcat-admin-grid-sotrable
+composer require chieh12lee/dcat-admin-grid-sotrable
 ```
 
 然后打开`http://yourhost/admin/auth/extensions` ，依次点击 `更新` 和 `启用` 。
