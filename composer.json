@@ -1,15 +1,15 @@
 {
-    "name": "pstldz/dcat-admin-grid-sotrable",
+    "name": "chieh12lee/dcat-admin-grid-sotrable",
     "alias": "",
-    "description": "拖动排序",
+    "description": "基於"Pstldz\DcatAdminGridSotrable修正版本問題",
     "type": "library",
     "keywords": ["dcat-admin", "extension", "grid-sortable"],
-    "homepage": "https://github.com/pstldz/dcat-admin-grid-sotrable",
+    "homepage": "https://github.com/chieh12lee/dcat-admin-grid-sotrable",
     "license": "MIT",
     "authors": [
         {
-            "name": "pstldz",
-            "email": "1170525100@qq.com"
+            "name": "chieh12lee",
+            "email": "chieh.lee@gmail.com"
         }
     ],
     "require": {
