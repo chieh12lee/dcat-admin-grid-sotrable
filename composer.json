@@ -1,7 +1,7 @@
 {
     "name": "chieh12lee/dcat-admin-grid-sotrable",
     "alias": "",
-    "description": "基於Pstldz\DcatAdminGridSotrable修正版本問題",
+    "description": "基於Pstldz DcatAdminGridSotrable修正版本問題",
     "type": "library",
     "keywords": ["dcat-admin", "extension", "grid-sortable"],
     "homepage": "https://github.com/chieh12lee/dcat-admin-grid-sotrable",
